@@ -3,7 +3,7 @@ import { Socket } from "socket.io"
 export default class ClientInfo {
   public latency = 0
   public name = "Unnamed"
-  public isHost = true
+  public isHost = false
   public loggedIn = false
   public trackUri = ""
 
