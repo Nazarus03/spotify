@@ -6,7 +6,7 @@
   "env": {
     "HOST_PASSWORD": {
       "description": "The password a listener must have to get host access.",
-      "value": "1234",
+      "value": "",
       "required": false
     },
     "MAX_DELAY": {
