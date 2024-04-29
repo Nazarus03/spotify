@@ -7,7 +7,7 @@
     "HOST_PASSWORD": {
       "description": "The password a listener must have to get host access.",
       "value": "",
-      "required": false
+      "required": true
     },
     "MAX_DELAY": {
       "description": "Maximum time in milliseconds the server will be willing to wait for all the listeners after an action.",
